@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://discord.gg/2wQyNDbyk3" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283266542645284925/GIF_20240911_102234_148.gif?ex=66e25e99&is=66e10d19&hm=e1867b25ba7e308c00b61b4e3176accce62692e7636e36b5b4976b9e432dd325&" style"width: 100%;border-radius:15px">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283238578557681757/images.jpg?ex=66e2448e&is=66e0f30e&hm=2dea1efbd2d3fb0850b6993ace3615b68633a380be02a2c2c9c9e17795149de0&" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
