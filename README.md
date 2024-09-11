@@ -6,6 +6,12 @@
 
 ## <div align="center">Hi, I'm Akbar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+- 🧰 I’m currently working on **Ganyu** a discord bot.
+- 👨‍💻 All of my projects are available in **[Repositories](https://github.com/kentanglemes?tab=repositories)**,
+- 📫 I made things in my free time.
+- 📦 Owner of **[Trasplay](https://github.com/kentanglemes/trasplay) & **[AirinChan](https://github.com/kentanglemes/airinchan)**.
+- 🐐 A cocogoat (Ganyu) fan... She is really cute.
+
 [![kentanglemes profile views](https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg)](https://u8views.com/github/Kentanglemes)
 
 ***
