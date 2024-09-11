@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## <div align="center">Hi, I'm Akbar ⚔️</div>  
+## <div align="center">Hi, I'm Akbar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![kentanglemes profile views](https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg)](https://u8views.com/github/Kentanglemes)
 
