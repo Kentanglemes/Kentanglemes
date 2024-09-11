@@ -4,6 +4,6 @@
   </a>
 </div>
 
-## <div align="center">I'm Kentanglemes, mainly a Discord Bot Developer! Working since 2022 on Bots 🗣️🔥</div>  
+## <div align="center">I'm Akbar, mainly a Discord Bot Developer! Working since 2022 on Bots 🗣️🔥</div>  
 
 <a href="https://discord.com/users/995913592253710356/"><img src="https://discord.c99.nl/widget/theme-1/995913592253710356.png"></a> <a href="https://discord.gg/2wQyNDbyk3"><img src="https://discord.com/api/guilds/1001450173903417444/widget.png?style=banner2"></a>
