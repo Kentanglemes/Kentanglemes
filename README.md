@@ -20,7 +20,7 @@
 
 ***
 <p align='center'>
-  <img src="https://media.discordapp.net/attachments/1235904997905137756/1283351785792340059/bacongo.gif?ex=66e2adfd&is=66e15c7d&hm=d9227bfeb8f70df6f03d8f6d11cd66ae1b9aac7ae9209fdd79a560592a61a2c1&" alt="Patrick"/>
+  <img src="https://media.discordapp.net/attachments/1235904997905137756/1283352903435948043/foot-long-spongebob.gif?ex=66e2af07&is=66e15d87&hm=a6e4ba4f6d9068c045403abe17b65ac700d3ad84098ba68fd052e7e7ae976976&" alt="Mas Anies Mas Anies"/>
 </p>
 
 <p align="center">
