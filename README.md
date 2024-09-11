@@ -38,7 +38,7 @@
 ### 🔭 &nbsp;Social Media:
 
 <div align="center">
-  <a href="https://www.youtube.com/channlCQ-uhk60a9Li0wdDuXtIb-Q" target="_blank">
+  <a href="https://twitch.com/AkbarCh_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   <a href="https://discord.com/users/995913592253710356" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
