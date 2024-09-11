@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
-  <a href="https://images.app.goo.gl/1GLovQCGq6ueRXpL9" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283352903435948043/foot-long-spongebob.gif?ex=66e2af07&is=66e15d87&hm=a6e4ba4f6d9068c045403abe17b65ac700d3ad84098ba68fd052e7e7ae976976&" style"width: 100%;border-radius:15px">
+  <a href="https://saweria.co/aprilioakbar" title="Discord Server" target="_blank">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283362930129375275/wumpus.gif?ex=66e2b85e&is=66e166de&hm=791a0786154e40a3fceacc0c78d1baf90f3f187f6371aae564a190fe702f0c87&" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
