@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://saweria.co/aprilioakbar" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283362930129375275/wumpus.gif?ex=66e2b85e&is=66e166de&hm=791a0786154e40a3fceacc0c78d1baf90f3f187f6371aae564a190fe702f0c87&" style"width: 100%;border-radius:10px">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283362930129375275/wumpus.gif?ex=66e2b85e&is=66e166de&hm=791a0786154e40a3fceacc0c78d1baf90f3f187f6371aae564a190fe702f0c87&" style"width: 50%;border-radius:15px">
   </a>
 </div>
 
