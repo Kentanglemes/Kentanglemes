@@ -19,7 +19,7 @@
 ***
 
 <p align='center'>
-  <img src="https://tenor.com/heG6lVtc1M7.gif" alt="Patrik"/>
+  <img src="https://media.tenor.com/CbpeAQ249I0AAAAi/chiakiro-fox.gif" alt="Patrik"/>
 </p>
 
 <p align="center">
