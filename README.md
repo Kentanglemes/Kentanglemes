@@ -21,7 +21,7 @@
 ***
 
 ### 🔥 &nbsp;My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=kentanglemes&theme=dark)
+[!GitHub Streak](https://streak-stats.demolab.com?user=kentanglemes&theme=dark)
 
 ***
 
