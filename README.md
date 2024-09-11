@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <a href="https://discord.gg/2wQyNDbyk3" title="Discord Server" target="_blank">
+  <a href="https://discord.gg/5dUb7M2qCj" title="Discord Server" target="_blank">
     <img src="https://cdn.discordapp.com/banners/1069185336913170503/5d74ce8347210fb362c092292c85a184.png" style"width: 100%;border-radius:15px">
   </a>
 </div>
@@ -9,7 +9,7 @@
 > I have quitted the tomato area and now work on a hobby project called ["Mivator"](https://mivator.com)
 > My new Discord: https://discord.gg/5dUb7M2qCj
 
-<a href="https://discord.com/users/995913592253710356/"><img src="https://discord.c99.nl/widget/theme-1/995913592253710356.png"></a> <a href="https://discord.gg/2wQyNDbyk3"><img src="https://discord.com/api/guilds/1001450173903417444/widget.json"></a>
+<a href="https://discord.com/users/498094279793704991/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1001450173903417444/widget.png?style=banner2"></a>
 
 ***
 
