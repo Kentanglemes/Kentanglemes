@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available in **[Repositories](https://github.com/kentanglemes?tab=repositories)**.
 - 📦 Owner of **[Trasplay](https://github.com/kentanglemes/trasplay)** & **[AirinChan](https://github.com/kentanglemes/airinchan)**.
 
-[![kentanglemes profile views](https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg)](https://u8views.com/github/Kentanglemes)
+[![kentanglemes profile views](https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg)](https://saweria.co/aprilioakbar)
 
 ***
 
