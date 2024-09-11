@@ -6,12 +6,6 @@
 
 ## <div align="center">Hi, I'm Akbar ⚔️</div>  
 
-<details align=center>
-<summary><h2>Donate Me</h2></summary>
-  
-[Click Here](https://saweria.co/aprilioakbar)
-</details>
-
 <a href="https://discord.com/users/995913592253710356/"><img src="https://discord.c99.nl/widget/theme-1/995913592253710356.png"></a> <a href="https://discord.gg/2wQyNDbyk3"><img src="https://discord.com/api/guilds/1001450173903417444/widget.png?style=banner2"></a>
 
 ***
@@ -19,3 +13,9 @@
 ### 📜 My Bots
 
 > I developed 2 Discord bots that have been verified by Discord.
+
+***
+
+### 💰 Donate Me
+
+> You can support me by [Donating](https://saweria.co/aprilioakbar)
