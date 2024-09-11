@@ -26,7 +26,7 @@
 
 ***
 
-### 📚 &nbsp;Social:
+### 📚 &nbsp;Socials (comingsoon):
 
 <div align="center">
   </a>
