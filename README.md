@@ -14,14 +14,6 @@
 
 ***
 
-### 🔥 &nbsp;My Stats:
-
-[![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)](https://saweria.co/aprilioakbar)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kentanglemes&theme=dark)](https://saweria.co/aprilioakbar)
-
-***
-
 ### 🛠️ &nbsp;Languages & Tools:
 
 <div align="center">
@@ -42,6 +34,13 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
+
+***
+
+### 🔥 &nbsp;My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=kentanglemes&theme=dark)](https://saweria.co/aprilioakbar)
+
+[![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)](https://saweria.co/aprilioakbar)
 
 ***
 
