@@ -16,6 +16,8 @@
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
 
+***
+
 <p align='center'>
   <img src="https://media.tenor.com/CbpeAQ249I0AAAAi/chiakiro-fox.gif" alt="UwU"/>
 </p>
