@@ -6,7 +6,7 @@
 
 ## <div align="center">Hi, I'm Akbar ⚔️</div>  
 
-[![Roman Gershman profile views](https://u8views.com/api/v1/github/profiles/3674760/views/day-week-month-total-count.svg)](https://u8views.com/github/Kentanglemes)
+[![kentanglemes profile views](https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg)](https://u8views.com/github/Kentanglemes)
 
 ***
 
