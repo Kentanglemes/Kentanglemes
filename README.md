@@ -19,7 +19,7 @@
 ***
 
 <p align='center'>
-  <img src="https://media.tenor.com/CbpeAQ249I0AAAAi/chiakiro-fox.gif" alt="UwU"/>
+  <img src="https://media.tenor.com/id/view/patrick-patrick-star-dancing-patrick-dancing-patrick-star-dancing-gif-26969077" alt="UwU"/>
 </p>
 
 <p align="center">
