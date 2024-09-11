@@ -22,6 +22,5 @@
 
 <p align="center">
     <b>
-    👑 Kentanglemes<br/>
- | © 2022 - 2024<br/>
-                 All Rights Reserved
+    Kentanglemes<br/>
+ © 2022 - 2024 | All Rights Reserved
