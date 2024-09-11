@@ -10,12 +10,10 @@
 
 ***
 
-### 📜 My Bots
-
-> I developed 2 Discord bots that have been verified by Discord.
-
-***
-
 ### 💰 Donate Me
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
+
+***
+
+- 📃 When I spend time on my Phone, I either game, code, watch YouTube or spending time with my new Familiy & Friends!
