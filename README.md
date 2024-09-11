@@ -10,10 +10,6 @@
 
 ***
 
-<a href="https://discord.com/users/995913592253710356/"><img src="https://discord.c99.nl/widget/theme-1/995913592253710356.png"></a> <a href="https://discord.gg/2wQyNDbyk3"><img src="https://discord.com/api/guilds/1001450173903417444/widget.png?style=banner2"></a>
-
-***
-
 ### 💰 Support
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
@@ -25,6 +21,13 @@
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
 </p>
+
+***
+
+### 🔥 &nbsp;My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=McKinfinn&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McKinfinn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
