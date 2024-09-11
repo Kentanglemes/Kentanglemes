@@ -19,7 +19,7 @@
 ***
 
 <p align='center'>
-  <img src="https://tenor.com/id/view/patrick-patrick-star-dancing-patrick-dancing-patrick-star-dancing-gif-26969077" alt="UwU"/>
+  <img src="https://tenor.com/bZj3h.gif" alt="Prabowo"/>
 </p>
 
 <p align="center">
