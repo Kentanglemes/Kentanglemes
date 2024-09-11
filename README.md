@@ -6,6 +6,8 @@
 
 ## <div align="center">Hi, I'm Akbar ⚔️</div>  
 
+***
+
 <a href="https://discord.com/users/995913592253710356/"><img src="https://discord.c99.nl/widget/theme-1/995913592253710356.png"></a> <a href="https://discord.gg/2wQyNDbyk3"><img src="https://discord.com/api/guilds/1001450173903417444/widget.png?style=banner2"></a>
 
 ***
@@ -13,7 +15,3 @@
 ### 💰 Donate Me
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
-
-***
-
-- 📃 When I spend time on my Phone, I either game, code, watch YouTube or spending time with my new Familiy & Friends!
