@@ -10,24 +10,14 @@
 
 ***
 
-### 💰 Support
+### 💰 &nbsp;Support:
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
 
 ***
 
-### 🎧 Spotify
-
-<p align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
-</p>
-
-***
-
 ### 🔥 &nbsp;My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kentanglemes&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McKinfinn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
