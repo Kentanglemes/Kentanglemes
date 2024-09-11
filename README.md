@@ -12,7 +12,7 @@
 
 ***
 
-### 💰 Donate Me
+### 💰 Support
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
 
@@ -22,6 +22,6 @@
 
 <p align="center">
     <b>
-    💜 Korsinemi 💜<br/>
- A Celebration of Furry Passion | © 2016 - 2024<br/>
+    👑 Kentanglemes<br/>
+ | © 2022 - 2024<br/>
                  All Rights Reserved
