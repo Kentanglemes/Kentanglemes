@@ -19,7 +19,7 @@
 ***
 
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/Korsinemi/kentanglemes/main/img/뚱이움짤.gif" alt="Patrik"/>
+  <img src="https://tenor.com/heG6lVtc1M7.gif" alt="Patrik"/>
 </p>
 
 <p align="center">
