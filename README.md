@@ -20,9 +20,10 @@
 
 ***
 
-## **🎧 Spotify**
+### 🎧 Spotify
+
 <p align="center">
-<a href="https://spotify-github-profile.akbarr.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&redirect=true"><img src="https://spotify-github-profile.akbarr.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1ocd6zmwa07qdwpw5i7egxd9q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
 </p>
 
 ***
