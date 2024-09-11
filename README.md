@@ -38,8 +38,8 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channlCQ-uhk60a9Li0wdDuXtIb-Q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
-  <a href="https://discord.gg/HXzAcAvUan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="https://discord.com/users/995913592253710356" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://youtube.com/@aprilioakbar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
