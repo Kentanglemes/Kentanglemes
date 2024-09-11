@@ -15,3 +15,13 @@
 ### 💰 Donate Me
 
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
+
+<p align='center'>
+  <img src="https://media.tenor.com/CbpeAQ249I0AAAAi/chiakiro-fox.gif" alt="UwU"/>
+</p>
+
+<p align="center">
+    <b>
+    💜 Korsinemi 💜<br/>
+ A Celebration of Furry Passion | © 2016 - 2024<br/>
+                 All Rights Reserved
