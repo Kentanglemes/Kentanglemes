@@ -26,7 +26,7 @@
 
 ***
 
-### 🔭 &nbsp;Social Media:
+### 📚 &nbsp;Social:
 
 <div align="center">
   </a>
