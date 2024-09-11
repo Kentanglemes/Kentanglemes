@@ -18,10 +18,6 @@
 
 ***
 
-<p align='center'>
-  <img src="https://media.tenor.com/CbpeAQ249I0AAAAi/chiakiro-fox.gif" alt="Patrik"/>
-</p>
-
 <p align="center">
     <b>
     Kentanglemes<br/>
