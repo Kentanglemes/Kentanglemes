@@ -19,6 +19,9 @@
 > You can support me by [Donating](https://saweria.co/aprilioakbar)
 
 ***
+<p align='center'>
+  <img src="https://media.discordapp.net/attachments/1235904997905137756/1283351785792340059/bacongo.gif?ex=66e2adfd&is=66e15c7d&hm=d9227bfeb8f70df6f03d8f6d11cd66ae1b9aac7ae9209fdd79a560592a61a2c1&" alt="Patrick"/>
+</p>
 
 <p align="center">
     <b>
