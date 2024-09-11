@@ -9,7 +9,7 @@
 > I have quitted the tomato area and now work on a hobby project called ["Mivator"](https://mivator.com)
 > My new Discord: https://discord.gg/5dUb7M2qCj
 
-<a href="https://discord.com/users/995913592253710356/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
+<a href="https://discord.c99.nl/widget/theme-1/995913592253710356.png"><img src="https://discord.c99.nl/widget/theme-1/995913592253710356.png"></a> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
 
 ***
 
