@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://saweria.co/aprilioakbar" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1283363827546587146/discord-wumpu.gif?ex=66e6adb4&is=66e55c34&hm=28a1726a29a671b3b665c87046735f8261939bb7966f0912874c6d7ade269153&" style"width: 10%;border-radius:15px">
+    <img src="https://media.tenor.com/dutdoOw7PjsAAAAi/happy-cat.gif" style"width: 10%;border-radius:15px">
   </a>
 </div>
 
