@@ -34,4 +34,4 @@
 <p align="center">
     <b>
     Kentanglemes<br/>
- © 2022 - 2024 | All Rights Reserved
+ © 2022 | All Rights Reserved
