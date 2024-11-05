@@ -6,7 +6,6 @@
 
 ## <div align="center">Hi, I'm Alan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🧰 I’m currently working on **AirinChan** a discord bot.
 - 👨‍💻 All of my projects are available in **[Repositories](https://github.com/kentanglemes?tab=repositories)**.
 - 📦 Owner of **[Trasplay](https://github.com/kentanglemes/trasplay)** & **[AirinChan](https://airinchan.my.id)**.
 
