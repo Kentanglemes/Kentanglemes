@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://ibb.co.com/vLZ8nGQ" alt="Trasplay">
+</div>
+
 <div align="center" style"border-radius:15px">
   <a href="https://saweria.co/aprilioakbar" title="Discord Server" target="_blank">
     <img src="https://media.tenor.com/dutdoOw7PjsAAAAi/happy-cat.gif" style"width: 10%;border-radius:15px">
