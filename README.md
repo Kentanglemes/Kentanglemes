@@ -1,4 +1,9 @@
 <div align="center" style"border-radius:15px">
+  <a img src="https://media.discordapp.net/attachments/1315028244214317076/1317666206265770014/TRASPLAY_20241215_083307_0000.png?ex=675f83c8&is=675e3248&hm=2db694c375ae49ce75c60f66ea7f9864b64d653ab21f38aba07a2d31c9c4450a&" style"width: 10%;border-radius:15px">
+  </a>
+</div>
+
+<div align="center" style"border-radius:15px">
   <a href="https://saweria.co/aprilioakbar" title="Discord Server" target="_blank">
     <img src="https://media.tenor.com/dutdoOw7PjsAAAAi/happy-cat.gif" style"width: 10%;border-radius:15px">
   </a>
