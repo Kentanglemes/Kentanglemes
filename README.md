@@ -1,4 +1,4 @@
-<img src="kucing.jpg" />
+<img src="meow2.jpg" />
 
 ***
 
