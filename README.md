@@ -7,7 +7,7 @@
             </a>
             
 <a href="https://discord.gg/2wQyNDbyk3" target="_blank">
-                        <img width="100%" src="https://api.weblutions.com/" alt="Support Server">
+                        <img width="100%" src="https://api.weblutions.com/discord/invite/2wQyNDbyk3" alt="Support Server">
                     </a>
 
 ***
